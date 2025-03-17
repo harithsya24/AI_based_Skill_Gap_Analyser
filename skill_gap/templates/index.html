@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="static/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <script>
+        let currentQuestion = 0;
+        let score = 0;
+        let correctAnswer = "";
+        let quizData = []; 
+
+        window.onload = function () {
+            fetchRoles();
+        };
+
+        function fetchRoles() {
+            fetch('/api/roles')
+                .then(response => response.json())
+                .then(data => {
+                    const dropdown = document.getElementById("role-dropdown");
+                    data.forEach(role => {
+                        const option = document.createElement("option");
+                        option.value = role.id;
+                        option.text = role.role;
+                        dropdown.appendChild(option);
+                    });
+                });
+        }
+
+        function fetchQuestion(difficulty) {
+            const roleId = document.getElementById("role-dropdown").value;
+
+            fetch('/api/question', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ difficulty: difficulty, role_id: roleId })
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log(data);
+                if (data && data.question) {
+                    correctAnswer = data.answer;
+                    let questionObj = {
+                        question: data.question,
+                        options: data.options,
+                        correctAnswer: data.answer,
+                        points: data.difficulty_level,
+                        explanation: data.explanation
+                    };
+                    quizData.push(questionObj); // Store question data
+                    displayQuestion(questionObj); // Pass the full question object to display
+                } else {
+                    console.error('Invalid response data:', data);
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching question:', error);
+            });
+        }
+
+        function displayQuestion(questionObj) {
+            const questionContainer = document.getElementById("question-container");
+
+            if (questionContainer) {
+                questionContainer.innerHTML = ''; // Clear previous content
+                const questionText = document.createElement("p");
+                questionText.id = "question-text";
+                questionText.innerText = questionObj.question;
+                questionContainer.appendChild(questionText);
+
+                // Generate options dynamically
+                questionObj.options.forEach((option, index) => {
+                    const button = document.createElement("button");
+                    button.classList.add("option");
+                    button.innerText = option;
+                    button.onclick = () => checkAnswer(option, questionObj.points);
+                    questionContainer.appendChild(button);
+                });
+            } else {
+                console.error('Question container not found.');
+            }
+        }
+
+        function checkAnswer(selectedOption, points) {
+            if (selectedOption === correctAnswer) {
+                score += points;
+            }
+
+            currentQuestion++;
+
+            if (currentQuestion < 12) {
+                const nextDifficulty = selectedOption === correctAnswer ? 'higher' : 'lower';
+                fetchQuestion(nextDifficulty);
+            } else {
+                showResults(); // Show the summary at the end
+            }
+        }
+
+        function showResults() {
+            let resultHTML = `<h2>Quiz Finished! Your score: ${score}</h2>`;
+            resultHTML += `<h3>Review your answers:</h3>`;
+
+            quizData.forEach((q, index) => {
+                resultHTML += `
+                    <div class="result-card">
+                        <p><strong>Q${index + 1}: ${q.question}</strong></p>
+                        <p><strong>Correct Answer:</strong> ${q.correctAnswer}</p>
+                        <p><strong>Points:</strong> ${q.points}</p>
+                        <p><strong>Explanation:</strong> ${q.explanation}</p>
+                    </div>
+                `;
+            });
+
+            resultHTML += `<button onclick="restartQuiz()">Restart Quiz</button>`;
+
+            document.getElementById("question-container").innerHTML = resultHTML;
+
+            // Show recommendations after quiz ends
+            getRecommendation();
+        }
+
+        function getRecommendation() {
+            // Simulate scoring-based recommendations
+            const recommendationElement = document.createElement("div");
+            recommendationElement.innerHTML = `<h3>Recommended Courses & Topics Based on Your Score</h3>`;
+
+            // Use the score to generate dynamic course recommendations
+            const courses = score > 40 ? ['Advanced Cybersecurity', 'Machine Learning for Security'] : ['Basic Cybersecurity', 'Introduction to Web Development'];
+            const topics = score > 40 ? ['Network Defense', 'Ethical Hacking'] : ['Basic HTML/CSS', 'JavaScript Fundamentals'];
+
+            recommendationElement.innerHTML += `<p><strong>Recommended Courses:</strong><br>${courses.join('<br>')}</p>`;
+            recommendationElement.innerHTML += `<p><strong>Topics to Explore:</strong><br>${topics.join('<br>')}</p>`;
+
+            document.getElementById("question-container").appendChild(recommendationElement);
+        }
+
+        function startQuiz() {
+            score = 0;
+            currentQuestion = 0;
+            fetchQuestion('average');
+        }
+
+        function restartQuiz() {
+            location.reload();
+        }
+    </script>
+</head>
+<body>
+    <h1>Security Quiz</h1>
+
+    <label for="role-dropdown">Select Role:</label>
+    <select id="role-dropdown"></select>
+
+    <button onclick="startQuiz()">Start Quiz</button>
+
+    <div id="question-container">
+        <!-- Questions will be displayed here dynamically -->
+    </div>
+</body>
+</html>

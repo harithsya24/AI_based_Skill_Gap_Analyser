@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Skill Gap Analyser</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Welcome to the AI Skill Gap Analyser</h1>
+    <div class="feature-selection">
+        <button onclick="window.location.href='{{ url_for('mentor_page') }}'">AI Mentor</button>
+        <button onclick="window.location.href='{{ url_for('course_recommendation_page') }}'">Course Recommendation</button>
+        <button onclick="window.location.href='{{ url_for('skill_gap_page') }}'">Skill Test</button>
+    </div>
+</body>
+</html>

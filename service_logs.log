@@ -1,0 +1,276 @@
+2025-01-31 16:14:30,477 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:14:30,477 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:14:30,480 - INFO -  * Restarting with stat
+2025-01-31 16:14:32,919 - WARNING -  * Debugger is active!
+2025-01-31 16:14:32,927 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:14:41,896 - INFO - 127.0.0.1 - - [31/Jan/2025 16:14:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:14:41,900 - INFO - 127.0.0.1 - - [31/Jan/2025 16:14:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:14:41,944 - INFO - 127.0.0.1 - - [31/Jan/2025 16:14:41] "GET / HTTP/1.1" 200 -
+2025-01-31 16:15:28,083 - INFO - 127.0.0.1 - - [31/Jan/2025 16:15:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:15:28,091 - INFO - 127.0.0.1 - - [31/Jan/2025 16:15:28] "GET / HTTP/1.1" 200 -
+2025-01-31 16:16:29,301 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:16:29,500 - INFO -  * Restarting with stat
+2025-01-31 16:16:32,083 - WARNING -  * Debugger is active!
+2025-01-31 16:16:32,093 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:16:45,559 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:16:45,559 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:16:45,561 - INFO -  * Restarting with stat
+2025-01-31 16:16:48,106 - WARNING -  * Debugger is active!
+2025-01-31 16:16:48,114 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:17:05,900 - INFO - 127.0.0.1 - - [31/Jan/2025 16:17:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:17:05,924 - INFO - 127.0.0.1 - - [31/Jan/2025 16:17:05] "GET / HTTP/1.1" 200 -
+2025-01-31 16:17:47,878 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:17:48,075 - INFO -  * Restarting with stat
+2025-01-31 16:18:00,069 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:18:00,069 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:18:00,071 - INFO -  * Restarting with stat
+2025-01-31 16:18:02,509 - WARNING -  * Debugger is active!
+2025-01-31 16:18:02,518 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:18:04,314 - INFO - 127.0.0.1 - - [31/Jan/2025 16:18:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:18:04,340 - INFO - 127.0.0.1 - - [31/Jan/2025 16:18:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-31 16:18:04,474 - INFO - 127.0.0.1 - - [31/Jan/2025 16:18:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-31 16:18:04,475 - INFO - 127.0.0.1 - - [31/Jan/2025 16:18:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-31 16:18:04,522 - INFO - 127.0.0.1 - - [31/Jan/2025 16:18:04] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=bRceHNXunn5RGNVMUGxF HTTP/1.1" 200 -
+2025-01-31 16:18:04,525 - INFO - 127.0.0.1 - - [31/Jan/2025 16:18:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:18:04,549 - INFO - 127.0.0.1 - - [31/Jan/2025 16:18:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-31 16:21:47,371 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:21:47,573 - INFO -  * Restarting with stat
+2025-01-31 16:22:00,193 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:22:00,193 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:22:00,195 - INFO -  * Restarting with stat
+2025-01-31 16:22:02,701 - WARNING -  * Debugger is active!
+2025-01-31 16:22:02,709 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:22:15,634 - INFO - 127.0.0.1 - - [31/Jan/2025 16:22:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:22:15,647 - INFO - 127.0.0.1 - - [31/Jan/2025 16:22:15] "GET / HTTP/1.1" 200 -
+2025-01-31 16:23:26,829 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:23:27,028 - INFO -  * Restarting with stat
+2025-01-31 16:23:29,640 - WARNING -  * Debugger is active!
+2025-01-31 16:23:29,649 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:23:40,726 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:23:40,726 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:23:40,728 - INFO -  * Restarting with stat
+2025-01-31 16:23:43,207 - WARNING -  * Debugger is active!
+2025-01-31 16:23:43,215 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:23:52,086 - INFO - 127.0.0.1 - - [31/Jan/2025 16:23:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:23:52,097 - INFO - 127.0.0.1 - - [31/Jan/2025 16:23:52] "GET / HTTP/1.1" 200 -
+2025-01-31 16:24:59,465 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:24:59,465 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:24:59,467 - INFO -  * Restarting with stat
+2025-01-31 16:25:01,926 - WARNING -  * Debugger is active!
+2025-01-31 16:25:01,935 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:25:15,870 - INFO - 127.0.0.1 - - [31/Jan/2025 16:25:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:25:15,881 - INFO - 127.0.0.1 - - [31/Jan/2025 16:25:15] "GET / HTTP/1.1" 200 -
+2025-01-31 16:27:24,734 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:27:24,949 - INFO -  * Restarting with stat
+2025-01-31 16:27:35,625 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:27:35,625 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:27:35,627 - INFO -  * Restarting with stat
+2025-01-31 16:27:38,272 - WARNING -  * Debugger is active!
+2025-01-31 16:27:38,281 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:28:14,417 - INFO - 127.0.0.1 - - [31/Jan/2025 16:28:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:28:14,429 - INFO - 127.0.0.1 - - [31/Jan/2025 16:28:14] "GET / HTTP/1.1" 200 -
+2025-01-31 16:28:20,850 - DEBUG - message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+2025-01-31 16:28:20,850 - DEBUG - api_version=None data='{"model": "gpt-4", "messages": [{"role": "system", "content": "You are an AI Mentor specializing in technology and career guidance. Just answer questions that are based on technology and career advice. Anything other than these topics are said to be out of your topic. Answer something related to any job position related to the Tech field. You can generate minimum code as well. If any foul language is detected, tell it\'s against ethics and not to use it. Your responses should be well-structured and formatted using HTML tags for better readability. Use <strong>bold</strong> for emphasis, <ul> for lists, and <pre><code> for code blocks. Maintain a friendly and professional tone."}, {"role": "user", "content": "bing"}]}' message='Post details'
+2025-01-31 16:28:20,851 - DEBUG - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2025-01-31 16:28:20,853 - DEBUG - Starting new HTTPS connection (1): api.openai.com:443
+2025-01-31 16:28:28,893 - DEBUG - https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2025-01-31 16:28:28,896 - DEBUG - message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=7829 request_id=req_5ff346aabc3b1f5e2e7eb7fd584e5b16 response_code=200
+2025-01-31 16:28:28,903 - INFO - 127.0.0.1 - - [31/Jan/2025 16:28:28] "POST /mentor/chat HTTP/1.1" 200 -
+2025-01-31 16:29:43,896 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:29:44,091 - INFO -  * Restarting with stat
+2025-01-31 16:29:46,714 - WARNING -  * Debugger is active!
+2025-01-31 16:29:46,724 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:29:56,836 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:29:56,836 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:29:56,838 - INFO -  * Restarting with stat
+2025-01-31 16:29:59,217 - WARNING -  * Debugger is active!
+2025-01-31 16:29:59,226 - INFO -  * Debugger PIN: 219-722-499
+2025-01-31 16:30:14,552 - INFO - 127.0.0.1 - - [31/Jan/2025 16:30:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 16:30:14,580 - INFO - 127.0.0.1 - - [31/Jan/2025 16:30:14] "GET / HTTP/1.1" 200 -
+2025-01-31 16:32:59,774 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:32:59,975 - INFO -  * Restarting with stat
+2025-01-31 16:33:00,315 - INFO -  * Detected change in 'D:\\random state = 42 MLK\\Integrated - Copy\\app.py', reloading
+2025-01-31 16:33:00,571 - INFO -  * Restarting with stat
+2025-01-31 16:33:14,689 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:33:14,689 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:33:14,691 - INFO -  * Restarting with stat
+2025-01-31 16:33:17,187 - WARNING -  * Debugger is active!
+2025-01-31 16:33:17,201 - INFO -  * Debugger PIN: 219-722-499
+2025-03-17 02:54:36,509 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 02:54:36,509 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 02:54:36,509 - INFO -  * Restarting with stat
+2025-03-17 02:54:37,422 - WARNING -  * Debugger is active!
+2025-03-17 02:54:37,430 - INFO -  * Debugger PIN: 714-670-558
+2025-03-17 02:55:16,881 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:55:16,897 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:16] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-03-17 02:55:16,899 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:16] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-03-17 02:55:16,906 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:16] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=E7SsqdUFMf4Wh2jQp6rI HTTP/1.1" 200 -
+2025-03-17 02:55:16,921 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:16] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2025-03-17 02:55:16,922 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:16] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2025-03-17 02:55:17,026 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:55:17,029 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:55:17,030 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:55:17,032 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=E7SsqdUFMf4Wh2jQp6rI HTTP/1.1[0m" 304 -
+2025-03-17 02:55:17,129 - INFO - 127.0.0.1 - - [17/Mar/2025 02:55:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-17 02:56:21,155 - INFO -  * Detected change in '/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/app.py', reloading
+2025-03-17 02:56:21,282 - INFO -  * Restarting with stat
+2025-03-17 02:56:22,269 - WARNING -  * Debugger is active!
+2025-03-17 02:56:22,275 - INFO -  * Debugger PIN: 714-670-558
+2025-03-17 02:56:25,217 - INFO - 127.0.0.1 - - [17/Mar/2025 02:56:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:56:25,232 - INFO - 127.0.0.1 - - [17/Mar/2025 02:56:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:56:25,233 - INFO - 127.0.0.1 - - [17/Mar/2025 02:56:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:56:25,236 - INFO - 127.0.0.1 - - [17/Mar/2025 02:56:25] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=XRHEvkdOsB7DPydCFnM6 HTTP/1.1" 200 -
+2025-03-17 02:58:02,930 - INFO -  * To enable the debugger you need to enter the security pin:
+2025-03-17 02:58:02,931 - INFO -  * Debugger pin code: 714-670-558
+2025-03-17 02:58:02,932 - INFO - 127.0.0.1 - - [17/Mar/2025 02:58:02] "GET /?__debugger__=yes&cmd=printpin&s=XRHEvkdOsB7DPydCFnM6 HTTP/1.1" 200 -
+2025-03-17 02:58:16,036 - INFO - 127.0.0.1 - - [17/Mar/2025 02:58:16] "GET /?__debugger__=yes&cmd=pinauth&pin=0219&s=XRHEvkdOsB7DPydCFnM6 HTTP/1.1" 200 -
+2025-03-17 02:59:04,252 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 02:59:04,252 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 02:59:04,252 - INFO -  * Restarting with stat
+2025-03-17 02:59:04,925 - WARNING -  * Debugger is active!
+2025-03-17 02:59:04,931 - INFO -  * Debugger PIN: 714-670-558
+2025-03-17 02:59:07,905 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:59:07,919 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:07] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:59:07,920 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:07] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:59:07,924 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:07] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=V7UkaApc1iW3EIPTtiX3 HTTP/1.1" 200 -
+2025-03-17 02:59:09,593 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:09] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:59:09,600 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:59:09,601 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:59:09,605 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=V7UkaApc1iW3EIPTtiX3 HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,257 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:59:10,263 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,264 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,267 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=V7UkaApc1iW3EIPTtiX3 HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,444 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:59:10,452 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,453 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,457 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=V7UkaApc1iW3EIPTtiX3 HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,591 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:59:10,597 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,598 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,602 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=V7UkaApc1iW3EIPTtiX3 HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,931 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 02:59:10,936 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,937 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 02:59:10,939 - INFO - 127.0.0.1 - - [17/Mar/2025 02:59:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=V7UkaApc1iW3EIPTtiX3 HTTP/1.1[0m" 304 -
+2025-03-17 03:01:22,617 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 03:01:22,617 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 03:01:22,618 - INFO -  * Restarting with stat
+2025-03-17 03:01:23,301 - WARNING -  * Debugger is active!
+2025-03-17 03:01:23,307 - INFO -  * Debugger PIN: 714-670-558
+2025-03-17 03:01:31,186 - INFO - 127.0.0.1 - - [17/Mar/2025 03:01:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 03:01:31,202 - INFO - 127.0.0.1 - - [17/Mar/2025 03:01:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 03:01:31,202 - INFO - 127.0.0.1 - - [17/Mar/2025 03:01:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 03:01:31,206 - INFO - 127.0.0.1 - - [17/Mar/2025 03:01:31] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=CWAprHUUMmv2F3qmo2ox HTTP/1.1" 200 -
+2025-03-17 03:02:35,532 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 03:02:35,532 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 03:02:40,786 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/app.py", line 63, in index
+    return render_template("templates/index_main.html")
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: templates/index_main.html
+2025-03-17 03:02:40,794 - INFO - 127.0.0.1 - - [17/Mar/2025 03:02:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 03:02:40,834 - INFO - 127.0.0.1 - - [17/Mar/2025 03:02:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-17 03:03:37,678 - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/app.py", line 63, in index
+    return render_template("index_main.html")
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/environment.py", line 1087, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/environment.py", line 1016, in get_template
+    return self._load_template(name, globals)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/environment.py", line 975, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/venv/lib/python3.13/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: templates/index_main.html
+2025-03-17 03:03:37,685 - INFO - 127.0.0.1 - - [17/Mar/2025 03:03:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 03:04:11,447 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 03:04:11,447 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 03:04:11,447 - INFO -  * Restarting with stat
+2025-03-17 03:04:12,116 - WARNING -  * Debugger is active!
+2025-03-17 03:04:12,122 - INFO -  * Debugger PIN: 714-670-558
+2025-03-17 03:04:31,728 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 03:04:31,733 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-03-17 03:04:31,745 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 03:04:31,745 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 03:04:31,749 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:31] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=GeZ74kT1U2R0dv9T0puJ HTTP/1.1" 200 -
+2025-03-17 03:04:36,098 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 03:04:36,101 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:36] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-03-17 03:04:36,106 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:36] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 03:04:36,108 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:36] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 03:04:36,112 - INFO - 127.0.0.1 - - [17/Mar/2025 03:04:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=GeZ74kT1U2R0dv9T0puJ HTTP/1.1[0m" 304 -
+2025-03-17 03:06:10,222 - INFO -  * Detected change in '/Users/amruthakanakatteravishankar/Desktop/Integrated - Copy/app.py', reloading
+2025-03-17 03:06:10,410 - INFO -  * Restarting with stat
+2025-03-17 03:06:11,562 - WARNING -  * Debugger is active!
+2025-03-17 03:06:11,571 - INFO -  * Debugger PIN: 714-670-558
+2025-03-17 03:06:19,753 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-17 03:06:19,753 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-17 03:06:19,753 - INFO -  * Restarting with stat
+2025-03-17 03:06:20,450 - WARNING -  * Debugger is active!
+2025-03-17 03:06:20,457 - INFO -  * Debugger PIN: 714-670-558
+2025-03-17 03:06:23,115 - INFO - 127.0.0.1 - - [17/Mar/2025 03:06:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-03-17 03:06:23,137 - INFO - 127.0.0.1 - - [17/Mar/2025 03:06:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-03-17 03:06:23,137 - INFO - 127.0.0.1 - - [17/Mar/2025 03:06:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-03-17 03:06:23,140 - INFO - 127.0.0.1 - - [17/Mar/2025 03:06:23] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=xqPo2PYY8982ZJnJkPeW HTTP/1.1" 200 -
